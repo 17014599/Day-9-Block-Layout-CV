@@ -1,0 +1,42 @@
+div{
+    border:  1px solid black ;
+    margin: 10px;
+    padding: 20px;
+    }
+.top{
+    display: flex;
+}
+.top--left{
+    
+    width: 30%;
+    height: 100px;
+}
+.top--right{
+    
+    width: 70%;
+    height: 100px;
+}
+.body{
+    display: flex;
+}
+.body--left{
+width: 30%;
+}
+.body--right{
+width: 70%;
+}
+.bottom{
+    display: flex;
+}
+.Contact , .Edu , .Officeinformatics {
+    height: 150px;
+}
+.Careergoals{
+    height: 200px;
+}
+.Workexperience{
+    height: 300px;
+}
+.Language , .Otherskills{
+width:50%;
+}
